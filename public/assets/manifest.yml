@@ -297,7 +297,8 @@ flags/yt.png: flags/yt-3809ae0046bb15447c0b916c668e3ce7.png
 flags/za.png: flags/za-876787e7736f3331a61e39b43139cd07.png
 flags/zm.png: flags/zm-f5777cdb3dc18b16ace725f4fe2b4c66.png
 flags/zw.png: flags/zw-f19bfe796cd17a82d6706952042a5ceb.png
-icons-s444eb99c48.png: icons-s444eb99c48-9ba3b8250d94b348d21031c74d3378f8.png
+icons-s1f7052413c.png: icons-s1f7052413c-d65505f4c4acf5ff7f0deabcde8628fa.png
+icons-sf197dfc09c.png: icons-sf197dfc09c-f5fcc9ce6a78af6110b28b4aae609c37.png
 icons/analysis.png: icons/analysis-d6bae6ca070abd260aad9f5b258ee316.png
 icons/arrow_right.png: icons/arrow_right-c5c004ec1be5e43a8e23cce387c0b8f7.png
 icons/arrow_right_active.png: icons/arrow_right_active-95e340cc441ed6c84206d3623a7227e5.png
@@ -382,10 +383,9 @@ subscribe_alert.png: subscribe_alert-c7b12a53ad136722295daa62cd110453.png
 tmp/circles.png: tmp/circles-31dc2e0745c93466aea5c3c7ca75a5fb.png
 tmp/post_image.png: tmp/post_image-6f5913a0e928be1af74277793c64526f.png
 application.js: application-f0cad78573fd4a82ca5b49b15d20f37f.js
-application.css: application-06610e2bb5f298c34dbecd9b1aeebc5d.css
+application.css: application-2d2292d13c71465bc598675fac8f050d.css
 Futura.eot: Futura-0c8d510c770bf13eedf5afb635f35ca1.eot
 Futura.otf: Futura-b20b4511b6573e666e2a898a83eacb91.otf
 Futura.svg: Futura-8659a10b1660a4ac35c9f74dac2e1650.svg
 Futura.ttf: Futura-68958773547302d64c88fa90edc26ca6.ttf
 Futura.woff: Futura-6e07d719951ed67c07a18f5c0ae32309.woff
-icons-s1f7052413c.png: icons-s1f7052413c-d65505f4c4acf5ff7f0deabcde8628fa.png
